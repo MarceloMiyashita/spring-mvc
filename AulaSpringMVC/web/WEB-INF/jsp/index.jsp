@@ -14,7 +14,6 @@
     <body>
         <h1>Hello World!</h1>
         Clique <a href="cadastrarAlguem">aqui</a> para cadastrar pessoas!<br>
-        Clique <a href="listarPessoas">aqui</a> para listar pessoas!<br>
         Clique <a href="cadastrarUsuario">aqui</a> para cadastrar usuários!<br>
         Clique <a href="pesquisaExtrato">aqui</a> para gerar o extrato da conta!<br>
         Clique <a href="pesquisarContas">aqui</a> para pesquisar contas!

@@ -41,9 +41,4 @@ public class MeuController  {
         return "contas/pesquisarContas";
     }
     
-    @RequestMapping("/listarPessoas")
-    public String listarPessoas(){
-        return "pessoas/listarPessoa";
-    }
-    
 }
